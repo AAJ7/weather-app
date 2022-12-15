@@ -1,0 +1,68 @@
+body
+{
+    font-family: "Oswald";
+    background-image: url("../images/denys-nevozhai-duo-xV0TU7s-unsplash.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+
+
+
+.navbar-brand
+{
+    color: #26a3b9 !important;
+    border: 3px solid #168aa5 !important;
+    border-radius: 20px !important;
+}
+
+.navbar-brand:hover
+{
+    color:white !important;
+    transition: 0.3s !important;
+    cursor: pointer !important;
+}
+
+.active
+{
+    color: #26a3b9 !important;
+    border: 3px solid #168aa5 !important;
+    border-radius: 20px !important;    
+}
+
+.X:hover
+{
+    color:white !important;
+    transition: 0.1s !important;
+    cursor: pointer !important;
+    border: 3px solid #168aa5 !important;
+    border-radius: 20px !important;
+}
+
+button
+{
+    color: white;
+    background-color: #26a3b9;
+    border-radius: 20px;
+}
+
+.first
+{
+    color: #168aa5;
+    border-radius: 20px;
+    border: 3px solid #26a3b9;
+}
+
+.Cover , .navbar
+{
+    border: 5px solid #168aa5;
+}
+
+span
+{
+    font-family:'Times New Roman', Times, serif;
+    background-position: center center;
+}
+
